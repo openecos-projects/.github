@@ -4,7 +4,7 @@
 <tr align="justify">
 <td width="50%" valign="top">
 
-### ℹ️ Basic Information
+### ℹ️ Introduction
 - **Create Date**: July, 2021
 - **Members**: [Frontier System Laboratory, Center for Advanced Computer Systems, Institute of Computing Technology, Chinese Academy of Sciences](https://acs.ict.ac.cn/english), [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn), etc
 - **Partners**: [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc
@@ -14,27 +14,22 @@
 ### 🔥 Community & Resources
 - [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
 - [[FSiC2025 PPT] Making Open Silicon Design Everywhere: Using Cloud-based Open Agile EDA Platform](https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf)
-- TODO
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧰 Project List
 - Talent Cultivation
-  - [OSOC](https://ysyx.oscc.cc): Large-scale open public welfare chip and system talent training program
-  - [MOLI](https://moli.oscc.cc): Massive Open Learning-by-doing Initiative
+  - [OSOC](https://ysyx.oscc.cc): Large-scale Open Public Welfare Chip and System Talent Training Initiative
 - RTL Design
-  - **Open Source IP / SoC**: RISC-V processor, SoC framework / template, peripheral IP and computing IP
 - EDA Tools
-  - [iEDA](https://ieda.oscc.cc): Open source intelligent EDA tools and infrastructure, just like OpenRoad, etc
-  - **Open Source EDA Toolchain**: Covers the core steps of chip design and supporting full-process design, just like OpenLane, SiliconCompiler, etc
+  - [iEDA](https://ieda.oscc.cc): Open Source Intelligent EDA Tools and Infrastructure
 - PDK Data
   - [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
 - Embedded
-  - **Embedded Community**: Contains PCB board materials based on ECOS open source chip, click [here](https://embedded.ecoslab.com) to visit
+  - [ECOS Embedded](https://ecos-embedded.rtfd.io): Embedded Board Community Based on ECOS Open Source Chips
 - Platform & Service
-  - **Cloud Platfrom**: Supports chip design & verification in the cloud as a service
-  - **Design Service**: Provides low-cost tape-out services for universities and communities
+  - [ECOS Studio (Testing)](https://studio.oscc.cc): Cloud-based Agile and Real-time Collaboration EDA Platform
 
 </td>
 </tr>
