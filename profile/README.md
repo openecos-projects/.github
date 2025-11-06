@@ -11,25 +11,18 @@
 - **Slogan**: (Build an) **E**cosystem for **C**ollaborative and **O**pen **S**ilicon
 - **Goal**: ECOS team are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries"**
 
-### 🔥 Community & Resources
-- [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
-- [[FSiC2025 PPT] Making Open Silicon Design Everywhere: Using Cloud-based Open Agile EDA Platform](https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf)
-
 </td>
 <td width="50%" valign="top">
 
 ### 🧰 Project List
-- Talent Cultivation
-  - [OSOC](https://ysyx.oscc.cc): Large-scale Open Public Welfare Chip and System Talent Training Initiative
-- RTL Design
-- EDA Tools
-  - [iEDA](https://ieda.oscc.cc): Open Source Intelligent EDA Tools and Infrastructure
-- PDK Data
-  - [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
-- Embedded
-  - [ECOS Embedded](https://ecos-embedded.rtfd.io): Embedded Board Community Based on ECOS Open Source Chips
-- Platform & Service
-  - [ECOS Studio (Testing)](https://studio.oscc.cc): Cloud-based Agile and Real-time Collaboration EDA Platform
+- [OSOC](https://ysyx.oscc.cc): Large-scale Open Public Welfare Chip and System Talent Training Initiative
+- [iEDA](https://ieda.oscc.cc): Open Source Intelligent EDA Tools and Infrastructure
+- [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
+- [ECOS Studio (Testing)](https://studio.oscc.cc): Cloud-based Agile and Real-time Collaboration EDA Platform
+
+### 🔥 Community & Resources
+- [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
+- [[FSiC2025 PPT] Making Open Silicon Design Everywhere: Using Cloud-based Open Agile EDA Platform](https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf)
 
 </td>
 </tr>
