@@ -1,5 +1,10 @@
 ## ECOS Team
 
+### ⚠️ Notice
+- **ICsprout55 PDK Todo List**
+    - RAMs, GDS, DRC/LVS Rules, SPICE Models, PDN, RC, etc
+    - User Guide, Tutorials, Datasheets, etc
+
 <table>
 <tr align="justify">
 <td width="50%" valign="top">
@@ -29,7 +34,7 @@
 </table>
 
 ### 🚍 Tapeout Shuttle
-- ECOS-ICS55-2512 (TBD)
+- ECOS-ICS55-2512 (Testing)
   ```mermaid
   gantt
     dateFormat YYYY-MM
