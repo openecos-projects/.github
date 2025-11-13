@@ -39,9 +39,9 @@
   gantt
     dateFormat YYYY-MM
     section Submission
-      Task: a1, 2025-10-25, 7d
+      Task: a1, 2025-10-25, 19d
     section Backend
-      Task: b1, 2025-11-01, 50d
+      Task: b1, 2025-11-13, 30d
     section Manufacture
       Task: c1, after b1, 90d
     section Packaging
