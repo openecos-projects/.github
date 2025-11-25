@@ -34,7 +34,7 @@
 </table>
 
 ### 🚍 Tapeout Shuttle
-- ECOS-ICS55-2512 (Testing)
+- ECOS-ICS55-2512
   ```mermaid
   gantt
     dateFormat YYYY-MM
