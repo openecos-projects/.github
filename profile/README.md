@@ -2,7 +2,7 @@
 
 ### ⚠️ Notice
 - **ICsprout55 PDK Todo List**
-    - RAMs, GDS, DRC/LVS Rules, SPICE Models, PDN, RC, etc
+    - RAMs, DRC/LVS Rules, SPICE Models, PDN, RC, etc
     - User Guide, Tutorials, Datasheets, etc
 
 <table>
