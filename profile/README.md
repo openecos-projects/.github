@@ -39,17 +39,17 @@
   gantt
     dateFormat YYYY-MM
     section Submission
-      Doing: a1, 2025-10-25, 19d
+      Doing: a1, 2025-10-25, 30d
     section Backend
-      Doing: b1, 2025-11-13, 30d
+      Doing: b1, after a1, 60d
     section Manufacture
-      Doing: c1, after b1, 90d
+      Doing: d1, after b1, 90d
     section Packaging
-      Doing: d1, after c1, 20d
+      Doing: e1, after d1, 20d
     section PCB
-      Doing: e1, after c1, 15d
+      Doing: f1, after e1, 15d
     section Bringup
-      Doing: f1, after d1, 7d
+      Doing: g1, after f1, 7d
   ```
 
 <details>
