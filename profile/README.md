@@ -23,7 +23,7 @@
 - [OSOC](https://ysyx.oscc.cc): Large-scale Open Public Welfare Chip and System Talent Training Initiative
 - [iEDA](https://ieda.oscc.cc): Open Source Intelligent EDA Tools and Infrastructure
 - [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
-- [ECOS Studio (Testing)](https://studio.oscc.cc): Cloud-based Agile and Real-time Collaboration EDA Platform
+- [ECOS Studio](https://studio.oscc.cc): Cloud-based Agile and Real-time Collaboration EDA Platform
 
 ### 🔥 Community & Resources
 - [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
