@@ -41,7 +41,7 @@
     section Submission
       Doing: a1, 2025-10-25, 30d
     section Backend
-      Doing: b1, after a1, 60d
+      Doing: b1, after a1, 68d
     section Manufacture
       Doing: d1, after b1, 90d
     section Packaging
