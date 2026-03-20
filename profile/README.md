@@ -32,27 +32,3 @@
 </td>
 </tr>
 </table>
-
-### Tapeout Shuttle
-- ECOS-ICS55-2512
-  ```mermaid
-  gantt
-    dateFormat YYYY-MM
-    section Submission
-      Doing: a1, 2025-10-25, 30d
-    section Backend
-      Doing: b1, after a1, 68d
-    section Manufacture
-      Doing: d1, after b1, 90d
-    section Packaging
-      Doing: e1, after d1, 20d
-    section PCB
-      Doing: f1, after e1, 15d
-    section Bringup
-      Doing: g1, after f1, 7d
-  ```
-
-<details>
-<summary>Archive</summary>
-
-</details>
