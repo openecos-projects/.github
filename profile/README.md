@@ -33,7 +33,7 @@
   - **retroSoC**: A Fully Open Source and Customizable ASIC Framework for Tapeout Applications
   - **ICsprout55 PDK**: The 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
   - **ECOS Embedded**: An Open Source Knowledge Sharing Platform for Embedded
-  - **ECOS Studio**: An RTL2GDS Sillicon Design Solution with Open Source IP/SoC + PDK + EDA
+  - **ECOS Studio**: An RTL2GDS Agile Design Platform with Open Source IP/SoC + PDK + EDA
 - **Community**
   - **ECOS ChipCreative**: A Community focused on the Open Source Chip Ecosystem
 
