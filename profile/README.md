@@ -26,10 +26,10 @@
 ### Project List
 - **EDA**
   - **ECOS ChipCompiler**: A Chip Design Automation Solution with Open Source EDA Tools
-- **Chip Design**
+- **Chip**
 - **One Student One Chip**
   - **One Student One Chip**: The Large-scale Open Public Welfare Chip and System Talent Training Initiative
-- **System Solutions**
+- **System Solution**
   - **retroSoC**: A Fully Open Source and Customizable ASIC Framework for Tapeout Applications
   - **ICsprout55 PDK**: The 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
   - **ECOS Embedded**: An Open Source Knowledge Sharing Platform for Embedded
