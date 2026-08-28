@@ -1,4 +1,4 @@
-## ECOS Team
+## ECOS Open Silicon
 
 ### Notice
 
