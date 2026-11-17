@@ -6,16 +6,12 @@
 
 ### Introduction
 
-- **Date:** July, 2021
-- **Members:** [Frontier System Laboratory, Center for Advanced Computer Systems, Institute of Computing Technology, Chinese Academy of Sciences](https://acs.ict.ac.cn/english), [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn), etc
-- **Partners:** [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc
-- **Slogan:** (Build an) **E**cosystem for **C**ollaborative and **O**pen **S**ilicon
-- **Goal:** We are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries"**
-
-### Community & Resources
-
-- [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
-- [[FSiC2025 PPT] Making Open Silicon Design Everywhere: Using Cloud-based Open Agile EDA Platform](https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf)
+- **Contents:**
+- **Members:** [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn), [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn), etc.
+- **Partners:** [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc.
+- **Mission:** Making chip design easy for everyone.
+- **Vision:** Lowering barriers to chip design through open source, empowering innovation across industries.
+- **Slogan:** **E**nabling **C**ost-effective **O**pen **S**ilicon.
 
 </td>
 <td width="50%" valign="top">
@@ -23,17 +19,16 @@
 ### Project List
 
 - **EDA**
-  - **ECOS ChipCompiler:** A Chip Design Automation Solution with Open Source EDA Tools
+  - **ECOS ChipCompiler:** An Open-Source Electronic Design Automation Toolchain for ASIC Design.
 - **Chip**
+  - **retroSoC:** A Fully Open-Source, Customizable RISC-V SoC and ASIC Design Framework.
 - **One Student One Chip**
-  - **One Student One Chip:** The Large-scale Open Public Welfare Chip and System Talent Training Initiative
+  - **One Student One Chip:** A Large-Scale, Open, Nonprofit Program Providing Hands-On Training in Chip Design and Computer Systems.
 - **System Solution**
-  - **retroSoC:** A Fully Open Source and Customizable ASIC Framework for Tapeout Applications
-  - **ICsprout55 PDK:** The 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
-  - **ECOS Embedded:** An Open Source Knowledge Sharing Platform for Embedded
-  - **ECOS Studio:** An RTL2GDS Agile Design Platform with Open Source IP/SoC + PDK + EDA
-- **Community**
-  - **ECOS ChipCreative:** A Community focused on the Open Source Chip Ecosystem
+  - **ECOS Studio:** A Local Integrated Development Environment for Chip Design.
+  - **ECOS Factory:** An Online Tape-Out Service Platform for Open-Source Chips, Educational Projects, and Small-Scale Validation.
+  - **ICsprout55 PDK:** An Open-Source Process Design Kit Based on a 55nm CMOS Process.
+  - **ECOS Embedded:** An Open-Source Knowledge-Sharing and Application Support Platform for ECOS Chips and Development Boards.
 
 </td>
 </tr>
