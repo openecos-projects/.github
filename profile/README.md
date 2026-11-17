@@ -11,6 +11,7 @@
 - **Partners:** [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc.
 - **Mission:** Making chip design easy for everyone.
 - **Vision:** Lowering barriers to chip design through open source, empowering innovation across industries.
+- **Values:** Forge paths, build bridges. Open source without boundaries, collaboration without barriers. Start with users, deliver value.
 - **Slogan:** **E**nabling **C**ost-effective **O**pen **S**ilicon.
 
 </td>
