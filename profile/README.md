@@ -6,7 +6,7 @@
 
 ### Introduction
 
-- **Contents:**
+- **Contents:** ECOS Open Silicon conducts ongoing research and development in design tools, reusable modules, chip design, and system applications, with a focus on open-source EDA, IP, and PDKs (ICsprout 55nm PDK), while advancing talent development and ecosystem building.
 - **Members:** [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn), [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn), etc.
 - **Partners:** [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc.
 - **Mission:** Making chip design easy for everyone.
